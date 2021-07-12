@@ -79,7 +79,9 @@ img {
   padding-top: 24px;
   padding-bottom: 25px;
   align-items: center;
-  border-bottom: 1px solid #ececec;
+}
+.header{
+   border-bottom: 1px solid #ececec;
 }
 .navigation-list {
   display: flex;
@@ -389,9 +391,6 @@ img {
   padding-left: 24px;
 }
 
-/* END FILTER */
-
-/* PORTFOLIO */
 
 .project-title {
   font-weight: 700;
@@ -406,4 +405,4 @@ img {
   letter-spacing: 0.03em;
   color: var(--secondary-color);
 }
-/* END PORTFOLIO */
+/* END FILTER */
